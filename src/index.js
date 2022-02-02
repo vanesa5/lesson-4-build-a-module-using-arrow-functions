@@ -3,6 +3,11 @@ import ReactDOM from "react-dom";
 import Confetti from "react-confetti";
 import "./styles.css";
 
+//----MY Imports Below this Line----
+import { greeting } from "./greet.js";
+
+
+//----MY Imports Above this Line----
 const GreetingMessage = "";
 
 function App() {
